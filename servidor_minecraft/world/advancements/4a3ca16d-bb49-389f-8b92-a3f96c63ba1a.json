@@ -9400,9 +9400,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+  "travelersbackpack:recipes/misc/netherite_smithing": {
     "criteria": {
-      "has_the_recipe": "2024-11-29 05:00:36 +0000"
+      "has_netherite": "2024-11-29 02:51:41 +0000"
     },
     "done": true
   },
@@ -9412,99 +9412,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
-    "criteria": {
-      "has_yellow_wool": "2024-11-29 04:35:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:03:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:01:01 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
       "has_item": "2024-11-29 02:54:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_meal": {
-    "criteria": {
-      "bestiary": "2024-11-29 03:34:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2024-11-29 03:27:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2024-11-29 03:29:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2024-11-29 04:35:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_head": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:03:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2024-11-29 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_staff": {
-    "criteria": {
-      "bestiary": "2024-11-29 03:28:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_diamond_head": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:00:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:00:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_body": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:03:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-11-29 05:00:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2024-11-29 05:00:19 +0000"
     },
     "done": true
   },
@@ -9514,9 +9424,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-11-29 02:54:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-11-29 02:54:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-11-29 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-11-29 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-11-29 03:28:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-11-29 03:29:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-11-29 03:34:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-11-29 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-29 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-29 04:35:04 +0000"
     },
     "done": true
   },
@@ -9526,33 +9490,69 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2024-11-29 02:54:41 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite_smithing": {
-    "criteria": {
-      "has_netherite": "2024-11-29 02:51:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2024-11-29 04:35:04 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_boots": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_item": "2024-11-29 02:54:41 +0000"
+      "has_diamond_block": "2024-11-29 05:00:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_head": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:00:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-11-29 05:00:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:01:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:03:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:03:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:03:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:03:32 +0000"
     },
     "done": true
   },
