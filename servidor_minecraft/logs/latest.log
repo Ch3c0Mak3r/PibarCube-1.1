@@ -1054,3 +1054,28 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:02:43] [Server thread/INFO]: Named entity class_1548['Deflector Withering Creeper'/25362, l='ServerLevel[world]', x=1195.70, y=57.00, z=1085.70] died: Deflector Withering Creeper was slain by Death Worm
 [22:03:45] [Server thread/INFO]: [Not Secure] <Rodo> Checo, como se llama el mod de los tp? para buscar como funciona
 [22:04:04] [Server thread/INFO]: [Not Secure] <Chechales> Essentials Commands
+[22:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13030ms or 260 ticks behind
+[22:05:26] [Server thread/INFO]: [STDOUT]: []
+[22:06:11] [Server thread/INFO]: Named entity class_1642['Lifesteal Cloaked Ghastly Sprinter Zombie'/26582, l='ServerLevel[world]', x=1098.53, y=69.00, z=1073.54] died: Lifesteal Cloaked Ghastly Sprinter Zombie was slain by BambyCryed
+[22:07:22] [Server thread/INFO]: [Not Secure] <Rodo> Bueno, efectivamente
+[22:07:29] [Server thread/INFO]: [Not Secure] <Chechales> q
+[22:07:32] [Server thread/INFO]: [Not Secure] <Rodo> Se puede crear un home tp
+[22:07:45] [Server thread/INFO]: [Not Secure] <Chechales> creo q ya se los dije xd
+[22:07:52] [Server thread/INFO]: [Not Secure] <BambyCryed> si
+[22:08:19] [Server thread/INFO]: [Not Secure] <Rodo> Tecnicamente se podria poner mas de uno, solo tendrias que configurar el limite
+[22:08:30] [Server thread/INFO]: [Not Secure] <Rodo> Actualmente está en uno
+[22:08:32] [Server thread/INFO]: [Not Secure] <Rodo> JAJAJAJAA
+[22:08:44] [Server thread/INFO]: [Not Secure] <Chechales> pos si
+[22:08:48] [Server thread/INFO]: [Not Secure] <Chechales> el de tu casa
+[22:09:39] [Server thread/INFO]: [Not Secure] <Rodo> Opino que deberias poner como minimo 2, uno para la casa y otro para jugar con el
+[22:10:13] [Server thread/INFO]: [Not Secure] <Rodo> Mi humillde opinion
+[22:10:19] [Server thread/INFO]: [Not Secure] <Rodo> humilde*
+[22:10:26] [Server thread/INFO]: [STDOUT]: []
+[22:10:30] [Server thread/INFO]: [Not Secure] <Chechales> menos mal que es humilde
+[22:12:27] [Server thread/INFO]: [Not Secure] <BambyCryed> rodo estás en tu casa?
+[22:12:59] [Server thread/INFO]: [Not Secure] <Rodo> Sisa
+[22:13:30] [Server thread/WARN]: Guartinajito (vehicle of BambyCryed) moved wrongly! 1.1260451905532611
+[22:14:26] [Server thread/INFO]: [Not Secure] <BambyCryed> cuanto te cobra este vale por los libros?
+[22:14:45] [Server thread/INFO]: [Not Secure] <Rodo> 1 esmeralda
+[22:15:08] [Server thread/INFO]: [Not Secure] <BambyCryed> puedes comprarme 3 de reparación y 2 de botin please
