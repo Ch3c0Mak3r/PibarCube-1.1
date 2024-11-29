@@ -1036,3 +1036,21 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:54:25] [Server thread/INFO]: BambyCryed joined the game
 [21:54:25] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '4a3ca16d-bb49-389f-8b92-a3f96c63ba1a'.
 [21:54:34] [Server thread/INFO]: [Not Secure] <Chechales> no te dieron mas ganas de etnrar despues de eso ajskldajd
+[21:55:11] [Server thread/INFO]: [STDOUT]: []
+[21:57:51] [Server thread/WARN]: UUID of added entity already exists: Lizard['Lizard'/21917, l='ServerLevel[world]', x=1312.10, y=85.00, z=1000.11]
+[21:57:56] [Server thread/INFO]: Villager class_1646['Cleric'/21689, l='ServerLevel[world]', x=1173.62, y=63.03, z=896.45] died, message: 'Cleric hit the ground too hard'
+[21:59:32] [Server thread/INFO]: Rodo lost connection: Disconnected
+[21:59:32] [Server thread/INFO]: Rodo left the game
+[21:59:36] [Server thread/INFO]: Rodo[/127.89.42.30:38361] logged in with entity id 23507 at (40.23750001192093, 117.0, -70.30000001192093)
+[21:59:36] [Server thread/INFO]: Syncing config to Rodo (aa9ca2b3-0b16-3ff3-975b-a3a1a25e7449)
+[21:59:37] [Server thread/INFO]: Loading config from file...
+[21:59:37] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'aa9ca2b3-0b16-3ff3-975b-a3a1a25e7449'.
+[21:59:37] [Server thread/INFO]: Rodo joined the game
+[21:59:37] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'aa9ca2b3-0b16-3ff3-975b-a3a1a25e7449'.
+[22:00:11] [Server thread/INFO]: [STDOUT]: []
+[22:01:49] [Server thread/INFO]: [Not Secure] <Rodo> Ohhhhhh
+[22:02:05] [Server thread/INFO]: [Not Secure] <Rodo> Para tpear a alguien le pide permiso
+[22:02:07] [Server thread/INFO]: [Not Secure] <Rodo> JJAJAJAA
+[22:02:43] [Server thread/INFO]: Named entity class_1548['Deflector Withering Creeper'/25362, l='ServerLevel[world]', x=1195.70, y=57.00, z=1085.70] died: Deflector Withering Creeper was slain by Death Worm
+[22:03:45] [Server thread/INFO]: [Not Secure] <Rodo> Checo, como se llama el mod de los tp? para buscar como funciona
+[22:04:04] [Server thread/INFO]: [Not Secure] <Chechales> Essentials Commands
