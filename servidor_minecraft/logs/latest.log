@@ -1435,3 +1435,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:05:28] [Server thread/INFO]: [STDOUT]: []
 [23:10:28] [Server thread/INFO]: [STDOUT]: []
 [23:15:28] [Server thread/INFO]: [STDOUT]: []
+[23:20:28] [Server thread/INFO]: [STDOUT]: []
+[23:25:28] [Server thread/INFO]: [STDOUT]: []
