@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "6112cf72-236b-37ce-865f-ecb01133bdbd",
+    "name": "Chechales",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "2391601c-9c76-44ad-a96f-ad4be69ffaac",
     "name": "Chechales",
     "level": 4,
