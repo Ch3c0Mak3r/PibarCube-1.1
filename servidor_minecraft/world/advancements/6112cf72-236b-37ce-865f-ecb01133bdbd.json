@@ -9482,9 +9482,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_meal": {
+  "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
-      "bestiary": "2024-11-29 20:16:34 +0000"
+      "iron": "2024-11-29 20:08:40 +0000"
     },
     "done": true
   },
@@ -9494,9 +9494,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonarmor": {
+  "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
-      "iron": "2024-11-29 20:08:40 +0000"
+      "bestiary": "2024-11-29 20:16:34 +0000"
     },
     "done": true
   },
