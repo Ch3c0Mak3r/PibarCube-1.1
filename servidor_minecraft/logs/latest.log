@@ -1016,3 +1016,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:35:11] [Server thread/INFO]: [STDOUT]: []
 [21:35:26] [Server thread/INFO]: [Chechales: Set the time to 1000]
 [21:40:11] [Server thread/INFO]: [STDOUT]: []
+[21:45:05] [Server thread/INFO]: [Chechales: Set the time to 1000]
+[21:45:11] [Server thread/INFO]: [STDOUT]: []
+[21:50:11] [Server thread/INFO]: [STDOUT]: []
+[21:53:32] [Server thread/INFO]: Rodo[/127.89.42.30:32921] logged in with entity id 17542 at (40.500854445991344, 116.5625, -70.41122356879339)
+[21:53:32] [Server thread/INFO]: Syncing config to Rodo (aa9ca2b3-0b16-3ff3-975b-a3a1a25e7449)
+[21:53:32] [Server thread/INFO]: Loading config from file...
+[21:53:32] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'aa9ca2b3-0b16-3ff3-975b-a3a1a25e7449'.
+[21:53:32] [Server thread/INFO]: Rodo joined the game
+[21:53:32] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'aa9ca2b3-0b16-3ff3-975b-a3a1a25e7449'.
+[21:53:51] [Server thread/INFO]: [Not Secure] <Rodo> Como vamos
+[21:54:00] [Server thread/INFO]: [Not Secure] <Chechales> dimelo rodolo
+[21:54:04] [Server thread/INFO]: [Not Secure] <Chechales> tiempo sin verlo por aca
+[21:54:20] [Server thread/INFO]: [Not Secure] <Rodo> Desde el dia que me salvaste
+[21:54:25] [Server thread/INFO]: BambyCryed[/127.173.100.239:55601] logged in with entity id 17981 at (329.529777548098, 63.0, 84.71233886595101)
+[21:54:25] [Server thread/INFO]: Syncing config to BambyCryed (4a3ca16d-bb49-389f-8b92-a3f96c63ba1a)
+[21:54:25] [Server thread/INFO]: Loading config from file...
+[21:54:25] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '4a3ca16d-bb49-389f-8b92-a3f96c63ba1a'.
+[21:54:25] [Server thread/INFO]: BambyCryed joined the game
+[21:54:25] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '4a3ca16d-bb49-389f-8b92-a3f96c63ba1a'.
+[21:54:34] [Server thread/INFO]: [Not Secure] <Chechales> no te dieron mas ganas de etnrar despues de eso ajskldajd
