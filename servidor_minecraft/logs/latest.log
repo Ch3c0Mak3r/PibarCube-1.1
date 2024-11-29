@@ -1013,3 +1013,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:20:11] [Server thread/INFO]: [STDOUT]: []
 [21:25:11] [Server thread/INFO]: [STDOUT]: []
 [21:30:11] [Server thread/INFO]: [STDOUT]: []
+[21:35:11] [Server thread/INFO]: [STDOUT]: []
+[21:35:26] [Server thread/INFO]: [Chechales: Set the time to 1000]
+[21:40:11] [Server thread/INFO]: [STDOUT]: []
