@@ -1431,3 +1431,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:54:38] [Server thread/INFO]: BambyCryed lost connection: Disconnected
 [22:54:38] [Server thread/INFO]: BambyCryed left the game
 [22:55:28] [Server thread/INFO]: [STDOUT]: []
+[23:00:28] [Server thread/INFO]: [STDOUT]: []
+[23:05:28] [Server thread/INFO]: [STDOUT]: []
