@@ -1419,3 +1419,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:42:45] [Server thread/INFO]: Named entity class_1639['Burning Toxic Wither Skeleton'/46878, l='ServerLevel[world]', x=1108.76, y=205.00, z=1075.33] died: Burning Toxic Wither Skeleton was slain by BambyCryed
 [22:45:28] [Server thread/INFO]: [STDOUT]: []
 [22:45:45] [Server thread/INFO]: [Not Secure] <BambyCryed> joda cule vaina dificil
+[22:50:28] [Server thread/INFO]: [STDOUT]: []
+[22:50:31] [Server thread/INFO]: Chechales lost connection: Disconnected
+[22:50:31] [Server thread/INFO]: Chechales left the game
+[22:52:46] [Server thread/WARN]: Guartinajito (vehicle of BambyCryed) moved wrongly! 0.7030967096753789
+[22:53:31] [Server thread/WARN]: Guartinajito (vehicle of BambyCryed) moved wrongly! 1.0653393484299631
+[22:53:33] [Server thread/WARN]: Guartinajito (vehicle of BambyCryed) moved wrongly! 1.0229786806173862
+[22:53:34] [Server thread/WARN]: Guartinajito (vehicle of BambyCryed) moved wrongly! 1.3030826941739646
+[22:53:35] [Server thread/WARN]: Guartinajito (vehicle of BambyCryed) moved wrongly! 1.4176950340146524
+[22:54:24] [Server thread/WARN]: Guartinajito (vehicle of BambyCryed) moved wrongly! 0.7411754685236346
+[22:54:38] [Server thread/INFO]: BambyCryed lost connection: Disconnected
+[22:54:38] [Server thread/INFO]: BambyCryed left the game
+[22:55:28] [Server thread/INFO]: [STDOUT]: []
