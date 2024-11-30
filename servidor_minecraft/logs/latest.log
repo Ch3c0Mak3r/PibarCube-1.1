@@ -684,3 +684,36 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:25:54] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '6112cf72-236b-37ce-865f-ecb01133bdbd'.
 [01:30:28] [Server thread/INFO]: [STDOUT]: []
 [01:35:28] [Server thread/INFO]: [STDOUT]: []
+[01:40:28] [Server thread/INFO]: [STDOUT]: []
+[01:40:57] [Server thread/INFO]: Luchales19[/127.151.129.54:33309] logged in with entity id 54271 at (-88.24929404047346, 73.0, -141.59065635384056)
+[01:40:57] [Server thread/INFO]: Syncing config to Luchales19 (c9d14f5f-9e3f-35d9-99d1-78b4ff7b4bac)
+[01:40:57] [Server thread/INFO]: Loading config from file...
+[01:40:57] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'c9d14f5f-9e3f-35d9-99d1-78b4ff7b4bac'.
+[01:40:57] [Server thread/INFO]: Luchales19 joined the game
+[01:40:57] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'c9d14f5f-9e3f-35d9-99d1-78b4ff7b4bac'.
+[01:41:39] [Server thread/INFO]: [STDOUT]: []
+[01:41:49] [Server thread/INFO]: [Not Secure] <Luchales19> buenas noches
+[01:41:54] [Server thread/INFO]: [Not Secure] <Chechales> wenas
+[01:42:26] [Server thread/INFO]: VidJner[/127.138.244.156:33097] logged in with entity id 54859 at (-53.365841804287435, 72.16610926093821, 200.39658410701415)
+[01:42:26] [Server thread/INFO]: Syncing config to VidJner (12f0070a-6035-327d-98ff-a53a73aa35eb)
+[01:42:26] [Server thread/INFO]: Loading config from file...
+[01:42:26] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '12f0070a-6035-327d-98ff-a53a73aa35eb'.
+[01:42:26] [Server thread/INFO]: VidJner joined the game
+[01:42:26] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '12f0070a-6035-327d-98ff-a53a73aa35eb'.
+[01:42:32] [Server thread/INFO]: [Not Secure] <Chechales> hay tps
+[01:42:40] [Server thread/INFO]: [STDOUT]: []
+[01:42:43] [Server thread/INFO]: [Not Secure] <Chechales> y para guardar un punto de spawn de la casa es con home set
+[01:42:52] [Server thread/INFO]: [Not Secure] <VidJner> Buenas
+[01:43:44] [Server thread/INFO]: [Not Secure] <Luchales19> WOW
+[01:43:53] [Server thread/INFO]: [Not Secure] <Luchales19> PSICOPATA CHECO LE PUSO TP
+[01:44:10] [Server thread/INFO]: [Not Secure] <VidJner> Let's go!!!!!
+[01:44:17] [Server thread/INFO]: [STDOUT]: []
+[01:44:18] [Server thread/INFO]: [STDOUT]: []
+[01:44:58] [Server thread/INFO]: [STDOUT]: []
+[01:45:28] [Server thread/INFO]: [STDOUT]: []
+[01:45:57] [Server thread/INFO]: [Not Secure] <Luchales19> checo
+[01:46:00] [Server thread/INFO]: [Not Secure] <Chechales> q
+[01:46:09] [Server thread/INFO]: [Not Secure] <Luchales19> ya viste la pista?
+[01:46:15] [Server thread/INFO]: [Not Secure] <Chechales> no nada ajaaja
+[01:46:37] [Server thread/INFO]: [Not Secure] <Luchales19> perate ahi que me eplotaron la cas
+[01:47:43] [Server thread/INFO]: [STDOUT]: []

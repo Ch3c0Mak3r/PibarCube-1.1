@@ -10072,39 +10072,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
-      "has_pumpkin": "2024-11-29 04:51:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-29 04:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-11-29 04:42:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-29 04:45:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_meal": {
-    "criteria": {
-      "bestiary": "2024-11-29 04:47:29 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2024-11-29 04:51:18 +0000"
+      "loot_simple_dungeon": "2024-11-29 01:52:22 +0000"
     },
     "done": true
   },
@@ -10114,9 +10084,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bestiary": "2024-11-29 04:04:33 +0000"
+      "minecraft:sheep": "2024-11-29 02:15:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-11-29 02:27:09 +0000"
     },
     "done": true
   },
@@ -10132,57 +10108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2024-11-29 04:00:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_gold_head": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 04:21:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2024-11-29 02:15:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-29 04:45:48 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2024-11-29 02:28:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2024-11-29 02:27:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2024-11-29 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_staff": {
-    "criteria": {
-      "bestiary": "2024-11-29 04:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2024-11-29 04:00:32 +0000"
     },
     "done": true
   },
@@ -10192,15 +10120,27 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonarmor": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "iron": "2024-11-29 04:20:50 +0000"
+      "has_paper": "2024-11-29 02:28:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "has_pumpkin": "2024-11-29 04:51:18 +0000"
+      "egg": "2024-11-29 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-11-29 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-11-29 04:00:32 +0000"
     },
     "done": true
   },
@@ -10210,15 +10150,45 @@
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
     "criteria": {
-      "loot_simple_dungeon": "2024-11-29 01:52:22 +0000"
+      "has_red_wool": "2024-11-29 04:00:32 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+  "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
-      "has_pumpkin": "2024-11-29 04:51:18 +0000"
+      "bestiary": "2024-11-29 04:04:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-11-29 04:05:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-11-29 04:20:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 04:20:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 04:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-29 04:42:37 +0000"
     },
     "done": true
   },
@@ -10234,27 +10204,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-11-29 02:28:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_gold_body": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 04:20:50 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
-    "criteria": {
-      "has_red_wool": "2024-11-29 04:00:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-11-29 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-11-29 04:47:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-11-29 04:51:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-11-29 04:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-11-29 04:51:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-11-29 04:51:18 +0000"
     },
     "done": true
   },
