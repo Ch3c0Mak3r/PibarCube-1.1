@@ -10265,5 +10265,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_the_recipe": "2024-11-30 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_the_recipe": "2024-11-30 02:06:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
