@@ -10086,7 +10086,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2024-11-29 02:15:26 +0000"
+      "minecraft:sheep": "2024-11-29 02:15:26 +0000",
+      "minecraft:cow": "2024-11-30 01:53:42 +0000"
     },
     "done": false
   },
@@ -10255,6 +10256,12 @@
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2024-11-29 04:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-30 01:52:28 +0000"
     },
     "done": true
   },
