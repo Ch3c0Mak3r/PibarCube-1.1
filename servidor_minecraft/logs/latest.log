@@ -682,3 +682,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:25:54] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '6112cf72-236b-37ce-865f-ecb01133bdbd'.
 [01:25:54] [Server thread/INFO]: Chechales joined the game
 [01:25:54] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '6112cf72-236b-37ce-865f-ecb01133bdbd'.
+[01:30:28] [Server thread/INFO]: [STDOUT]: []
+[01:35:28] [Server thread/INFO]: [STDOUT]: []
